@@ -1,6 +1,6 @@
 Pizza Sales SQL Analysis
 
-1- Project Overview
+1- Project Overview-
 This project analyzes a Pizza Sales database using SQL to uncover sales trends, customer preferences, and revenue insights by solving real-world business questions.
 
 ---
